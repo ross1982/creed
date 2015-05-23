@@ -159,3 +159,7 @@ in no particular order:
 
 - [and most importantly](https://www.youtube.com/watch?v=b6kgS_AwuH0)
   - [penalties](http://www.commitstrip.com/en/page/42/)
+
+################
+Learning GitHub. 
+  
